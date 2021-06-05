@@ -9,7 +9,7 @@ https://github.com/maria-salman/wbdv-sp21-project-frontend/wiki/DESIGN
 
 ## **Instructions**
 This is the front end repo. The back end repo is located at: 
-https://github.com/maria-salman/wbdv-sp21-project-backend
+https://github.com/MeeraSurendran/BloomsRead-backend.git
 
 Our project is hosted remotely at: http://wbdv-sp21-finalproject.herokuapp.com/ and must be run using Firefox in order to accurately maintain user sessions.
 
